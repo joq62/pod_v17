@@ -1,0 +1,12 @@
+[{<<"common">>,
+  {git,"https://github.com/joq62/common.git",
+       {ref,"7175235933812641949ab78dd02e4d1b834c76b0"}},
+  0},
+ {<<"nodelog">>,
+  {git,"https://github.com/joq62/nodelog.git",
+       {ref,"67c49d833690ea85ce151359f7824cff6c3478d8"}},
+  0},
+ {<<"sd">>,
+  {git,"https://github.com/joq62/sd.git",
+       {ref,"c54d04552fefce0f813117e4c55739d989a9bdd4"}},
+  0}].
